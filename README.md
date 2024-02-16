@@ -1,1 +1,2 @@
 # BackgroundRemover-API
+本项目针对背景去除的AI工具BackgroundRemover，基于spring boot设计开发了调用该工具的api，供大家学习参考。
